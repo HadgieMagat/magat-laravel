@@ -3,6 +3,6 @@
         &copy; Copyright <strong><span>Laravel Lesson</span></strong>. All Rights Reserved
     </div>
     <div class="credits">
-        Modified by <a href="#">Rhomes A. Abadines</a>
+        Modified by <a href="#">Hadgie Magat</a>
     </div>
 </footer>
